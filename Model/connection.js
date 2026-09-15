@@ -21,7 +21,7 @@ async function setDatabaseConnction() {
             host: 'database-1.ctg0sk48eip9.us-east-2.rds.amazonaws.com',
             user: 'admin',
             password: 'classICA!',
-            database: '-'
+            database: 'database-1'
         });
     }
 }
